@@ -1,0 +1,11 @@
+# Environment variables (contains secrets)
+.env
+
+# WireGuard configuration (contains private keys)
+.wg-easy/
+
+# Node.js
+node_modules/
+
+# IDE
+.idea/
